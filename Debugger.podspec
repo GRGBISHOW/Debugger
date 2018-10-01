@@ -14,7 +14,7 @@ Pod::Spec.new do |s|
           #7.
           s.platform            = :ios, "10.0"
           #8.
-          s.source              = { :git => "https://github.com/GRGBISHOW/Debugger.git", :tag => "1.0.0" }
+          s.source              = { :git => "https://github.com/GRGBISHOW/Debugger.git", :tag => "1.0.2" }
           #9.
-          s.source_files     = "https://github.com/GRGBISHOW/Debugger.git"
+          s.source_files     = "Debugger", "Debugger/**/*.{h,m,swift}"
     end
