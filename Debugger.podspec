@@ -2,7 +2,7 @@ Pod::Spec.new do |s|
           #1.
           s.name               = "Debugger"
           #2.
-          s.version            = "1.0.0"
+          s.version            = "1.0.3"
           #3.  
           s.summary         = "This makes you to separate out debug or release environment"
           #4.
@@ -14,7 +14,7 @@ Pod::Spec.new do |s|
           #7.
           s.platform            = :ios, "10.0"
           #8.
-          s.source              = { :git => "https://github.com/GRGBISHOW/Debugger.git", :tag => "1.0.2" }
+          s.source              = { :git => "https://github.com/GRGBISHOW/Debugger.git", :tag => "1.0.3" }
           #9.
           s.source_files     = "Debugger", "Debugger/**/*.{h,m,swift}"
     end
