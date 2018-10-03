@@ -1,13 +1,14 @@
 //
 //  Debugger.swift
-//  DebugLogger
+//  Debugger
 //
-//  Created by Bishow Gurung on 10/1/18.
+//  Created by Bishow Gurung on 10/3/18.
 //  Copyright © 2018 Bishow Gurung. All rights reserved.
 //
 
 import Foundation
 public class Debugger {
+    //1.
     private var isDebug: Bool!
     
     //2.
