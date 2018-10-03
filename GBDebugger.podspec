@@ -3,12 +3,12 @@ Pod::Spec.new do |s|
 # 1
 s.platform = :ios
 s.ios.deployment_target = '10.0'
-s.name = "Debugger"
+s.name = "GBDebugger"
 s.summary = "Debugger lets you to toggle dev and release enviroment."
 s.requires_arc = true
 
 # 2
-s.version = "1.1.1"
+s.version = "1.1.2"
 
 # 3
 s.license = { :type => "MIT", :file => "LICENSE" }
