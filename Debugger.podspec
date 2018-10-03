@@ -35,6 +35,6 @@ s.source_files = "Library/*.{swift}"
 # s.resources = "RWPickFlavor/**/*.{png,jpeg,jpg,storyboard,xib,xcassets}"
 
 # 10
-# s.swift_version = "4.2"
+s.swift_version = "4.2"
 
 end
